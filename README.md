@@ -55,10 +55,13 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-![snake gif](https://github.com/devenvoy/devenvoy/blob/output/github-contribution-grid-snake.svg)
-
-###
+<div align="center">
+    <img src="https://count.getloli.com/@devenvoy?name=devenvoy&theme=morden-num&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1"/>
+</div>
+<sub>
+    <p align="center">
+        <i>
+            Visitors since 2025-January
+        </i>
+    </p>
+</sub>
