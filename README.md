@@ -1,6 +1,7 @@
-![Header](https://github.com/devenvoy/devenvoy/blob/main/github-header-image.png)
+![Header](https://github.com/devenvoy/devenvoy/blob/main/readme-header.png)
 
 ---
+
 ### 📫 How to reach me:
 
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="LinkedIn Profile"/>](https://www.linkedin.com/in/devansh-a-bb104524a/)
@@ -9,7 +10,7 @@
 
 ---
 
-### **⚒️ Languages and Tools:**  
+### **⚒️ Languages and Tools:**
 
 #### 🚀 Mobile Development
 
@@ -43,6 +44,7 @@
 </details>
 
 ###
+
 <div>
   <div align="center">
     <img src="https://count.getloli.com/@devenvoy?name=devenvoy&theme=morden-num&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1"/>
@@ -54,10 +56,6 @@
         </i>
     </p>
 </sub>
-
-   <br>
-  <div>
-    <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
-  </div>
+  <br>
 </div>
-
+![Footer](https://github.com/devenvoy/devenvoy/blob/main/snacks.svg)
