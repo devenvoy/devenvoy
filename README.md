@@ -49,13 +49,16 @@
   <div align="center">
     <img src="https://count.getloli.com/@devenvoy?name=devenvoy&theme=morden-num&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1"/>
   </div>
-<sub>
-    <p align="center">
-        <i>
-            Visitors since 2025-January
-        </i>
-    </p>
-</sub>
+  <sub>
+      <p align="center">
+          <i>
+              Visitors since 2025-January
+          </i>
+      </p>
+  </sub>
   <br>
+  <div align="center">
+    <img src="https://github.com/devenvoy/devenvoy/blob/main/snacks.svg" alt="trophy" />
+  </div>
 </div>
-![Footer](https://github.com/devenvoy/devenvoy/blob/main/snacks.svg)
+
