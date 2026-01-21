@@ -42,9 +42,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devenvoy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   </div>
 </details>
-
-###
-
 <div>
   <div align="center">
     <img src="https://count.getloli.com/@devenvoy?name=devenvoy&theme=morden-num&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1"/>
@@ -56,9 +53,12 @@
           </i>
       </p>
   </sub>
-  <br>
-  <div align="center">
-    <img src="https://github.com/devenvoy/devenvoy/blob/main/snacks.svg" alt="trophy" />
-  </div>
 </div>
 
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
+</picture>
